@@ -1,59 +1,46 @@
-<!-- <h1 align="center">Hi 👋, I'm Syed Saquib</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0A0A,100:F59E0B&text=Syed%20Saquib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<h3 align="center">Full Stack Developer | AI Builder</h3>
+<h1 align="center">⚡ Syed Saquib ⚡</h1>
+
+<h3 align="center">
+Full Stack Developer • Product Builder • AI Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Builder;Hackathon+Enthusiast;Building+SageKart" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Product+Builder;Creator+of+SageKart;Building+Impactful+Digital+Products;AI+Agents+%26+Automation;Hackathon+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedsaquib19&label=Profile+Views&color=f59e0b&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student
-- 💻 Full Stack Developer
-- 🤖 Learning AI Agents & RAG
-- 🛒 Building SageKart -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111111,100:F59E0B&text=Syed%20Saquib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+I'm a Full Stack Developer passionate about building products that solve real-world problems.
 
-<h1 align="center">⚡ Full Stack Developer • AI Builder • Product Creator ⚡</h1>
+I enjoy transforming ideas into functional applications and continuously improving my skills through hands-on development, hackathons, and real-world projects.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Real-World+Products;Full+Stack+Developer;AI+Agents+%26+Automation;Hackathon+Builder;Creator+of+SageKart" />
-</p>
+### What I Do
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedsaquib19&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+- 💻 Build Full Stack Web Applications
+- 🤖 Explore AI Agents & Automation
+- 🏗 Design Backend Systems & APIs
+- 🚀 Turn Ideas into Products
+- 🏆 Participate in Hackathons
 
 ---
 
-# 🚀 About Me
-
-```yaml
-Name: Syed Saquib
-Role: Full Stack Developer
-College: SIRT
-Focus:
-  - Full Stack Development
-  - AI Agents
-  - Product Building
-
-Current Project:
-  - SageKart
-```
-
----
-
-# 🛠 Tech Stack
+## ⚒️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,python,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,python,vscode&perline=6" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 Development Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedsaquib19&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -67,60 +54,52 @@ Current Project:
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedsaquib19&theme=tokyonight&row=1&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=syedsaquib19&theme=onedark&row=1&column=7&margin-w=10"/>
 </p>
 
 ---
 
-# ⚡ Technologies
+## 🚀 Featured Work
 
-<p align="center">
+### 🛒 SageKart
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+A student-focused marketplace designed to help students buy and sell academic essentials efficiently.
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+#### Highlights
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+- Student-to-Student Marketplace
+- Product Listings & Management
+- Secure Authentication
+- Responsive User Interface
+- Full Stack Architecture
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-</p>
-
----
-
-# 🚀 Featured Project
-
-## 🛒 SageKart
-
-Campus marketplace built for students to buy and sell academic essentials efficiently.
-
-🔗 **Repository:**  
+🔗 Repository:
 https://github.com/syedsaquib19/SageKart-Demo-
 
 ---
 
-# 🎯 Current Goals
+## 🎯 2026 Roadmap
 
-- 🚀 Launch SageKart
-- 🤖 Build AI Agents
-- 💻 Master Backend Development
-- 🏆 Win Hackathons
+- 🚀 Scale and Improve SageKart
+- 🤖 Build Production-Ready AI Agents
+- 💻 Strengthen Backend & System Design Skills
 - 🌐 Contribute to Open Source
+- 🏆 Participate in Major Hackathons
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedsaquib19&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedsaquib19&theme=github-dark"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/syedsaquib19/syedsaquib19/output/github-snake.svg" />
@@ -128,12 +107,12 @@ https://github.com/syedsaquib19/SageKart-Demo-
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/syedsaquib19">
-    GitHub Profile
+    GitHub
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0A0A0A,100:F59E0B"/>
