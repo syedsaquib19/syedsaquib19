@@ -120,8 +120,8 @@ https://github.com/syedsaquib19/SageKart-Demo-
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="https://leetcode.com/syedsaquib19">
-<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+<a href="https://leetcode.com/u/syedsaquib19/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
