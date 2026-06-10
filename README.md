@@ -25,10 +25,15 @@ I enjoy transforming ideas into functional applications and continuously improvi
 ### What I Do
 
 - 💻 Build Full Stack Web Applications
-- 🤖 Explore AI Agents & Automation
-- 🏗 Design Backend Systems & APIs
-- 🚀 Turn Ideas into Products
-- 🏆 Participate in Hackathons
+- 🌐 Develop scalable Backend Systems & REST APIs
+- 🏗 Explore Software Architecture & System Design
+- 🤖 Learn and experiment with AI Agents & Automation
+- 🔍 Explore RAG (Retrieval-Augmented Generation) and LLM Applications
+- 🗄 Learn Vector Databases & Semantic Search Systems
+- 🚀 Turn ideas into real-world products
+- 🛒 Creator of SageKart
+- 🏆 Participate in Hackathons and Innovation Challenges
+- 📚 Continuously improving Backend Engineering and Problem-Solving skills
 
 ---
 
@@ -57,7 +62,7 @@ I enjoy transforming ideas into functional applications and continuously improvi
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedsaquib19&theme=onedark&row=1&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=syedsaquib19&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
