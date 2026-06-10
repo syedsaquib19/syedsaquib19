@@ -59,14 +59,6 @@ I enjoy transforming ideas into functional applications and continuously improvi
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedsaquib19&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
 ## 🚀 Featured Work
 
 ### 🛒 SageKart
@@ -114,26 +106,27 @@ https://github.com/syedsaquib19/SageKart-Demo-
 
 ## 🌐 Connect With Me
 
-<p align="center">
 
+<p align="center">
 <a href="https://github.com/syedsaquib19">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/syed-saquib-94218b291">
-<img src="https://img.shields.io/badge/LinkedIn-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/syed-saquib-94218b291L">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:syedsaquib121@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 <a href="https://leetcode.com/syedsaquib19">
-<img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
 </a>
 
-
 </p>
+
+
 <p align="center">
   <i>⚡ Building products, exploring AI, and turning ideas into reality ⚡</i>
 </p>
